@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scientific Calculator", "Scientific Calculator.csproj", "{2235A155-53BA-46F0-9E2D-71A3F4B51619}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Operations", "..\Operaciones\Operations.csproj", "{FD5F9B16-3691-4CDE-A933-1A3151AD244B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2235A155-53BA-46F0-9E2D-71A3F4B51619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2235A155-53BA-46F0-9E2D-71A3F4B51619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2235A155-53BA-46F0-9E2D-71A3F4B51619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2235A155-53BA-46F0-9E2D-71A3F4B51619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD5F9B16-3691-4CDE-A933-1A3151AD244B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5F9B16-3691-4CDE-A933-1A3151AD244B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5F9B16-3691-4CDE-A933-1A3151AD244B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5F9B16-3691-4CDE-A933-1A3151AD244B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99FFD889-5BD6-486D-B663-4A3CBB23766B}
+	EndGlobalSection
+EndGlobal
