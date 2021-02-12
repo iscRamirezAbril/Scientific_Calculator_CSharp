@@ -66,3 +66,18 @@ https://github.com/iscRamirezAbril/Math_Operations.git
 
 ### ----- Herramientas -----
 [Visual Studio 2019](https://visualstudio.microsoft.com/es/) - IDE utilizado para programar.
+
+### ----- Por hacer -----
+- [x] Realizar la forma y diseño.
+- [x] Programar los botones.
+- [x] Realizar librería.
+- [x] Pruebas de funcionamiento.
+- [x] Subir proyecto a Github. :octocat:
+
+### ----- Autor -----
+#### **Nombre.**
+_Ramirez Flores Abril._
+#### **Perfil de Github** :octocat:
+[iscRamirezAbri](https://github.com/iscRamirezAbril)
+
+**_Estudiante de Ingeniería en Sistemas Computacionales._**
