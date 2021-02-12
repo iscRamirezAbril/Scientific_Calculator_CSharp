@@ -31,3 +31,38 @@ https://github.com/iscRamirezAbril/Math_Operations.git
 - Punto decimal.
 
 **2. MÁS FUNCIONES MATEMÁTICAS BÁSICAS.**
+- _Número elevado al cuadrado._
+- _Número elevado al cubo._
+- _Exponente._
+- Cambio de signo.
+- _Porcentaje._
+- _Factorial._
+- _Logaritmo._
+- _Logaritmo Natural._
+
+**3. FUNCIONES TRIGONOMÉTRICAS.**
+- _Seno._
+- _Coseno._
+- Tangente.
+- Secante.
+- Cosecante.
+- Cotangente.
+- _Seno Hiperbólico._
+- _Coseno Hiperbólico._
+- Tangente Hiperbólica.
+
+**4. CONSTANTES.**
+- Pi.
+- Euler.
+
+**5. BOTONES DE MEMORIA.**
+- Borrar Memoria. (MC)
+- Recuperara Memoria almacenada. (MR)
+- Almacenar en Memoria. (MS)
+- M+
+- M-
+- Borrar erorr. (CE)
+- Borrar. (DEL)
+
+### ----- Herramientas -----
+[Visual Studio 2019](https://visualstudio.microsoft.com/es/) - IDE utilizado para programar.
