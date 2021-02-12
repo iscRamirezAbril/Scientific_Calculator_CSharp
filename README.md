@@ -6,13 +6,13 @@
 ## **_ENGLISH - INGLÉS_**
 
 ## **_SPANISH - ESPAÑOL_**
-#### ----- Descripción -----
+### ----- Descripción -----
 Este proyecto lo realicé por gusto, diversión y práctica.
 Se trata de una calculadora científica que contiene todas aquellas operaciones y funciones que yo considero importantes en una calculadora. Fue programada "Orientada a Objetos" porque personalmente quise practicar el uso de clases y objetos; así como también, realicé el proyecto en Inglés. ¡Una disculpa si hay faltas ortográficas y de redacción, estoy practicando!.
 
 En la sección “Tabla de Contenidos” se enlistarán todas las funciones que puede realizar la calculadora.
 
-#### ----- Tabla de contenidos -----
+### ----- Tabla de contenidos -----
 **_NOTA:_**
 
 **_Debido a que este proyecto es "Orientado a Objetos", programé algunas de las operaciones en una librería._**
