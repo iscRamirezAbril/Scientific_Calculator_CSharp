@@ -77,7 +77,7 @@ https://github.com/iscRamirezAbril/Math_Operations.git
 ### ----- Autor -----
 #### **Nombre.**
 _Ramirez Flores Abril._
-#### **Perfil de Github** :octocat:
-[iscRamirezAbri](https://github.com/iscRamirezAbril)
-
-**_Estudiante de Ingeniería en Sistemas Computacionales._**
+#### **Perfil de Github.** :octocat:
+[iscRamirezAbril](https://github.com/iscRamirezAbril)
+### **Dedicación.**
+_Estudiante de Ingeniería en Sistemas Computacionales._
