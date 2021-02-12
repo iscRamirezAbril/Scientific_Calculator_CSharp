@@ -74,7 +74,7 @@ https://github.com/iscRamirezAbril/Math_Operations.git
 - [x] Pruebas de funcionamiento.
 - [x] Subir proyecto a Github. :octocat:
 
-### ----- Autor -----
+### ----- Acerca del autor -----
 #### **Nombre.**
 _Ramirez Flores Abril._
 #### **Perfil de Github.** :octocat:
