@@ -7,7 +7,11 @@
 ## ----- Description -----
 I did this proyect just for fun and practice.
 
-It´s about a Scientific Calculator that it contains all operations and functions that I consider importants in a Calculator
+It´s about a Scientific Calculator that it contains all operations and functions that I consider importants in a calculator. It was programmed ""Object-oriented Programming" because, personally I want to practice the use of classes and objects; as well, I did the project in English. An apology if there are writing mistakes, im practicing!.
+
+In the "Table of Contents" section, you can find all the functions that the calculator can do.
+
+## ----- Table of contents -----
 ## **_SPANISH - ESPAÑOL_**
 ### ----- Descripción -----
 Este proyecto lo realicé por gusto, diversión y práctica.
@@ -83,5 +87,5 @@ https://github.com/iscRamirezAbril/Math_Operations.git
 _Ramirez Flores Abril._
 #### **Perfil de Github.** :octocat:
 [iscRamirezAbril](https://github.com/iscRamirezAbril)
-#### **Dedicación.**
+#### **Profesión.**
 _Estudiante de Ingeniería en Sistemas Computacionales._
