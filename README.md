@@ -4,14 +4,28 @@
 **_This file is written in ENGLISH and SPANISH._**
 
 ## **_ENGLISH - INGLÉS_**
-## ----- Description -----
+### ----- Description -----
 I did this proyect just for fun and practice.
 
 It´s about a Scientific Calculator that it contains all operations and functions that I consider importants in a calculator. It was programmed ""Object-oriented Programming" because, personally I want to practice the use of classes and objects; as well, I did the project in English. An apology if there are writing mistakes, im practicing!.
 
 In the "Table of Contents" section, you can find all the functions that the calculator can do.
 
-## ----- Table of contents -----
+### ----- Table of contents -----
+**_NOTE:_**
+
+**_Because this is an "Object-oriented" project, I programmed some operations in an Library._**
+
+**_If you want to check the code of the operations that are in handwritten form, consult the corresponding repository. You can search it in My Repositories or I give you the link of it down here._**
+
+https://github.com/iscRamirezAbril/Math_Operations.git
+
+**_Other functions can be found in this repository because they depend on other existing functions, and there was no necesary to program them in the library._**
+
+**1. BASIC MATH FUNCTIONS.***
+- _Addition._
+- _Substraction._
+
 ## **_SPANISH - ESPAÑOL_**
 ### ----- Descripción -----
 Este proyecto lo realicé por gusto, diversión y práctica.
@@ -25,7 +39,7 @@ En la sección “Tabla de Contenidos” se enlistarán todas las funciones que 
 
 **_Debido a que este proyecto es "Orientado a Objetos", programé algunas de las operaciones en una librería._**
 
-**_Si deseas ver el código de las opciones que están en manuscrita, consulta el repositorio correspondiente. Puedes buscarlo en mis repositorios o te dejo el enlace del mismo aquí abajo._**
+**_Si desea revisar el código de las opciones que están en manuscrita, consulta el repositorio correspondiente. Puedes buscarlo en mis repositorios o te dejo el enlace del mismo aquí abajo._**
 
 https://github.com/iscRamirezAbril/Math_Operations.git
 
