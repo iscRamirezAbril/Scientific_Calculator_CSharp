@@ -22,9 +22,22 @@ https://github.com/iscRamirezAbril/Math_Operations.git
 
 **_Other functions can be found in this repository because they depend on other existing functions, and there was no necesary to program them in the library._**
 
-**1. BASIC MATH FUNCTIONS.***
+**1. BASIC MATH FUNCTIONS.**
 - _Addition._
 - _Substraction._
+- _Multiplication._
+- _Division._
+- Decimal point.
+
+**2. MORE BASIC MATH FUNCTIONS.**
+- _Number squared._
+- _Number cubed._
+- _Exponent._
+- Sign change.
+- _Percentage._
+- _Factorial._
+- _Logarithm._
+- _Natural Logarithm._
 
 ## **_SPANISH - ESPAÑOL_**
 ### ----- Descripción -----
