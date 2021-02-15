@@ -41,7 +41,7 @@ https://github.com/iscRamirezAbril/Math_Operations.git
 
 **3. TRIGONOMETRIC FUNCTIONS.**
 - _Sine._
-- -Cosine._
+- _Cosine._
 - Tangent.
 - Secant.
 - Cosecant.
