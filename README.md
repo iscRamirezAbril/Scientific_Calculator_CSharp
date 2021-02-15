@@ -4,7 +4,9 @@
 **_This file is written in ENGLISH and SPANISH._**
 
 ## **_ENGLISH - INGLÉS_**
-
+## ----- Description -----
+I did this proyect just for fun and practice.
+Is about of a Scientific Calculator that it contains all operations and functions that I considerate importants in a Calculator
 ## **_SPANISH - ESPAÑOL_**
 ### ----- Descripción -----
 Este proyecto lo realicé por gusto, diversión y práctica.
@@ -61,7 +63,7 @@ https://github.com/iscRamirezAbril/Math_Operations.git
 - Almacenar en Memoria. (MS)
 - M+
 - M-
-- Borrar erorr. (CE)
+- Borrar error. (CE)
 - Borrar. (DEL)
 
 ### ----- Herramientas -----
