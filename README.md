@@ -63,6 +63,24 @@ https://github.com/iscRamirezAbril/Math_Operations.git
 - Clear error (CE).
 - Clear (DEL).
 
+### ----- Tools -----
+[Visual Studio 2019](https://visualstudio.microsoft.com/es/) - Used IDE to create the project.
+
+### ----- To-Do List -----
+- [x] Design the Windows Form and Design.
+- [x] Button Programming.
+- [x] Create the Library.
+- [x] Test the project.
+- [x] Upload the project to Github. :octocat:
+
+### ----- About the Author -----
+#### **Name.**
+_Ramirez Flores Abril._
+#### **Github Profile.** :octocat:
+[iscRamirezAbril](https://github.com/iscRamirezAbril)
+#### **Profesion.**
+_Computer System Engineering Student._
+
 
 ## **_SPANISH - ESPAÑOL_**
 ### ----- Descripción -----
