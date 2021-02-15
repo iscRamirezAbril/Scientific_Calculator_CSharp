@@ -6,10 +6,12 @@
 ## **_ENGLISH - INGLÉS_**
 ## ----- Description -----
 I did this proyect just for fun and practice.
-Is about of a Scientific Calculator that it contains all operations and functions that I considerate importants in a Calculator
+
+It´s about a Scientific Calculator that it contains all operations and functions that I consider importants in a Calculator
 ## **_SPANISH - ESPAÑOL_**
 ### ----- Descripción -----
 Este proyecto lo realicé por gusto, diversión y práctica.
+
 Se trata de una calculadora científica que contiene todas aquellas operaciones y funciones que yo considero importantes en una calculadora. Fue programada "Orientada a Objetos" porque personalmente quise practicar el uso de clases y objetos; así como también, realicé el proyecto en Inglés. ¡Una disculpa si hay faltas ortográficas y de redacción, estoy practicando!.
 
 En la sección “Tabla de Contenidos” se enlistarán todas las funciones que puede realizar la calculadora.
