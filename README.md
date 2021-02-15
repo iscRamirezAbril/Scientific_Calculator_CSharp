@@ -5,7 +5,7 @@
 
 ## **_ENGLISH - INGLÉS_**
 ### ----- Description -----
-I did this proyect just for fun and practice.
+I did this project just for fun and practice.
 
 It´s about a Scientific Calculator that it contains all operations and functions that I consider importants in a calculator. It was programmed ""Object-oriented Programming" because, personally I want to practice the use of classes and objects; as well, I did the project in English. An apology if there are writing mistakes, im practicing!.
 
@@ -38,6 +38,31 @@ https://github.com/iscRamirezAbril/Math_Operations.git
 - _Factorial._
 - _Logarithm._
 - _Natural Logarithm._
+
+**3. TRIGONOMETRIC FUNCTIONS.**
+- _Sine._
+- -Cosine._
+- Tangent.
+- Secant.
+- Cosecant.
+- Cotangent.
+- _Hiperbolic Sine._
+- _Hiperbolic Cosine._
+- Hiperbolic Tangent.
+
+**4. CONSTANTS.**
+- Pi.
+- Euler.
+
+**5. MEMORY BUTTONS.**
+- Memory Clear (MC).
+- Memory Recall (MR).
+- Memory Storage (MS).
+- M+
+- M-
+- Clear error (CE).
+- Clear (DEL).
+
 
 ## **_SPANISH - ESPAÑOL_**
 ### ----- Descripción -----
